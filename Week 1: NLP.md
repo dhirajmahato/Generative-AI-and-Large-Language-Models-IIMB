@@ -7,5 +7,8 @@
      - **Text**:(tokenization, stopword removal, stemming/Lemmatization,..)
      - **Linguistic**: (POS tagging, NER, chunking..)
 2. Text Representation
-     - 
+    - TF-IDF
+    - Word embedding
+    - Positional embedding
+    - Contextual embedding 
    
