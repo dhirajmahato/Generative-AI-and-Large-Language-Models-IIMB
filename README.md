@@ -12,3 +12,4 @@
 ## LLMs 
 Trained Transformers
 
+Structure: https://www.youtube.com/watch?v=BUTjcAjfMgY&t=873s
